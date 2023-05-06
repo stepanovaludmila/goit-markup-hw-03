@@ -359,8 +359,8 @@ alternative grid by magin +&-
 
 .gallery-item {
   flex-basis: calc((100% - 2*var(--card-set-gap))/3);
-  margin-left: 24px;
-  margin-bottom: 48px;
+  /*margin-left: 24px;
+  margin-bottom: 48px;*/
 }
 
 .gallery-item-border {
